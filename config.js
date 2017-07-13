@@ -39,6 +39,7 @@ config.topicActionLog = padTopicBase('action/log');
 config.topicActionInference = padTopicBase('action/inference');
 config.topicEventCamera = padTopicBase('event/camera');
 config.topicEventLocalImage = padTopicBase('event/localImage');
+config.topicEventSaveImage = padTopicBase('event/saveImage')
 config.topicNotifyEmail = padTopicBase('notify/email');
 config.topicNotifySMS = padTopicBase('notify/sms');
 config.topicDashboardLog = padTopicBase('dashboard/log');
